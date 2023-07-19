@@ -12,3 +12,8 @@
 * Principal Component Analysis (PCA)
 * Multi-Dimensional Scaling
 * Local Linear Embedding
+
+## Unit 4: Feature Engineering
+* Numerical Features
+* Categorical Features
+* Text Features
