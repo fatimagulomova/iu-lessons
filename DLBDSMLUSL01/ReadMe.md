@@ -17,3 +17,9 @@
 * Numerical Features
 * Categorical Features
 * Text Features
+
+## Feature Selection
+* Feature Importance
+* Feature Variance
+* Correlation Matrix
+* Recursive Feature Selection
