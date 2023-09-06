@@ -23,3 +23,7 @@
 * Feature Variance
 * Correlation Matrix
 * Recursive Feature Selection
+
+## Automated Feature Generation
+* Automated Feature Generation
+* Feature Engineering versus Deep Learning
